@@ -11,7 +11,7 @@ Welcome to the Event App! This app allows you to manage events seamlessly, enabl
 
 ## Live Demo
 
-Check out the live demo of the Event App [here](https://react-events-oi.netlify.app/events).
+Check out the live demo of the Event App [here](https://react-events-oi.netlify.app/events/).
 
 ## Technologies Used
 
